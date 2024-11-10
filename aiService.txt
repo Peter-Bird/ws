@@ -4,7 +4,7 @@ package ep
 import (
 	"log"
 	"fmt"
-	"github.com/peter-bird/ws"
+	"github.com/Peter-Bird/ws"
 )
 
 /*
